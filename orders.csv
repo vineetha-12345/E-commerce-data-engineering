@@ -1,0 +1,5 @@
+rder_id,customer_id,order_date,product,quantity,price
+1001,C101,2026-10-20,Laptop,1,55000
+1002,C102,2026-10-21,Mouse,2,500
+1003,C103,2026-10-21,Keyboard,1,1500
+1004,C101,2026-10-22,Monitor,1,12000
